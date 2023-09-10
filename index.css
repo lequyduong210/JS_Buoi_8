@@ -1,0 +1,16 @@
+.container{
+    width: 80%;
+}
+
+
+.change__position{
+    display: flex;
+}
+
+.container span{
+    font-size: 26px;
+    color: red;
+}
+button.nhap{
+    margin: 10px 0;
+}
