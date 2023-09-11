@@ -1,5 +1,5 @@
 
-var numberArr = [-30,-9,2,5,7,8,-20,40];
+var numberArr = [];
 function nhap(){
     var number = document.querySelector('#giatri').value*1;
     // thêm giá trị user nhập
